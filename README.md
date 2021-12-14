@@ -1,4 +1,4 @@
-# `near-api-js` Starter Kit
+# `near-api-js` 
 
 This is a simple project to help you get started with frontend development on NEAR Protocol
 
